@@ -31,6 +31,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+          <change when="2017-11-14T12:24:59-05:00"
+                 who="http://papyri.info/users/james.cowey">Finalized - Ready.</change>
+          <change when="2017-11-14T12:21:09-05:00"
+                 who="http://papyri.info/users/james.cowey">Add dummy header for original identifier 'papyri.info/ddbdp/p.cair.salem;;5' pointing to new identifier 'papyri.info/ddbdp/sb;28;16893'</change>
+          <change when="2017-10-29T11:54:45-04:00"
+                 who="http://papyri.info/users/james.cowey">Vote - Accept-Straight-to-Finalization - Include APF correction</change>
+          <change when="2017-10-26T13:31:48-04:00"
+                 who="http://papyri.info/users/Johanna%20Egerer">Submit - nach SB 28, 16893 eingegeben. </change>
           <change when="2013-10-22T05:25:26.088-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
           <change when="2013-10-22T05:25:26.07-04:00"
@@ -46,20 +54,10 @@
   </teiHeader>
   <text>
       <body>
-         <head xml:lang="en"/>
-         <div xml:lang="grc" type="edition" xml:space="preserve">
-<ab>
-<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
-<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>τούσης τῷ ἐξάκτορι κατὰ τὴν συνήθειαν μὴ ὄχλει
-<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ελ<unclear>ει</unclear>ου ἕνεκεν αἴνου διὰ τὸ χήραν <app type="editorial"><lem resp="F. Mitthof, APF 53 (2007) 235">με</lem><rdg>ἀλλ’</rdg></app> εἶναι καὶ
-<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> πολλῆς ἀμπέλου χέρσου ὅθεν ὀχλουμένη
-<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> ἀναφέρω ἐπιστολὴν α<unclear>ὐ</unclear>τῆς πρὸς <unclear>ἐξά</unclear>κ<supplied reason="lost">τορος </supplied><gap reason="lost" extent="unknown" unit="character"/>
-<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τρ</supplied>έπεσθαι πρὸς τὸν ἐξάκτορα ἀπὸ Σχεδ<supplied reason="lost">ίας </supplied><gap reason="lost" extent="unknown" unit="character"/>
-<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ης κατ’ ἐμοῦ <expan>ὀχλησαμέν<ex>ης</ex></expan> καὶ συντηρησα<supplied reason="lost">μένης </supplied><gap reason="lost" extent="unknown" unit="character"/>
-<lb n="7"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
-<lb n="7"/><gap reason="lost" extent="unknown" unit="line"/>
-</ab>
-      </div>
+         <head xml:lang="en">
+            <ref n="sb;28;16893" type="reprint-in">SB 28 16893</ref>
+         </head>
+         <div xml:lang="grc" type="edition" xml:space="preserve"><ab/></div>
       </body>
   </text>
 </TEI>
