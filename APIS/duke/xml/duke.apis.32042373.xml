@@ -78,6 +78,16 @@
                <figDesc> thumbnail</figDesc>
                <graphic url="http://scriptorium.lib.duke.edu/papyrus/images/thumbnails/37-thumb.gif"/>
             </figure>
+            <figure>
+               <head>Recto</head>
+               <figDesc> 72dpi</figDesc>
+               <graphic url="https://library.duke.edu/rubenstein/scriptorium/papyrus/images/72dpi/37-72.gif"/>
+            </figure>
+            <figure>
+               <head>Recto</head>
+               <figDesc> 150dpi</figDesc>
+               <graphic url="https://library.duke.edu/rubenstein/scriptorium/papyrus/images/150dpi/37-at150.gif"/>
+            </figure>
          </div>
       </body>
    </text>
